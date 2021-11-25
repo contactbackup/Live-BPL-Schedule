@@ -1,0 +1,32 @@
+[{
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/a/a1/Rajshahi_Royals.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Rajshahi Royals"
+	}, {
+		"F_Image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Rangpur_Rangers.png",
+		"F_MatchType": "",
+		"F_MatchRunning": "Rangpur Riders"
+	}, {
+		"F_Image": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
+		"F_MatchType": "",
+		"F_MatchRunning": "Sylhet Thunder"
+	},
+	{
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Chattogram Challengers"
+	}, {
+		"F_Image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
+		"F_MatchType": "",
+		"F_MatchRunning": "Dhaka Platoon"
+	}, {
+		"F_Image": "https://upload.wikimedia.org/wikipedia/en/9/99/Cumilla_Warriors.png",
+		"F_MatchType": "",
+		"F_MatchRunning": "Cumilla Warriors"
+	},
+	{
+		"F_Image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
+		"F_MatchType": "",
+		"F_MatchRunning": "Khulna Tigers"
+	}
+]
