@@ -3,30 +3,30 @@
 		"F_TeamUrl": "",
 		"F_TeamName": "Rajshahi Royals"
 	}, {
-		"F_Image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Rangpur_Rangers.png",
-		"F_MatchType": "",
-		"F_MatchRunning": "Rangpur Riders"
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/e/e8/Rangpur_Rangers.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Rangpur Riders"
 	}, {
-		"F_Image": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
-		"F_MatchType": "",
-		"F_MatchRunning": "Sylhet Thunder"
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Sylhet Thunder"
 	},
 	{
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
 		"F_TeamUrl": "",
 		"F_TeamName": "Chattogram Challengers"
 	}, {
-		"F_Image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
-		"F_MatchType": "",
-		"F_MatchRunning": "Dhaka Platoon"
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Dhaka Platoon"
 	}, {
-		"F_Image": "https://upload.wikimedia.org/wikipedia/en/9/99/Cumilla_Warriors.png",
-		"F_MatchType": "",
-		"F_MatchRunning": "Cumilla Warriors"
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/9/99/Cumilla_Warriors.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Cumilla Warriors"
 	},
 	{
-		"F_Image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
-		"F_MatchType": "",
-		"F_MatchRunning": "Khulna Tigers"
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Khulna Tigers"
 	}
 ]
