@@ -1,15 +1,15 @@
 [{
-		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/a/a1/Rajshahi_Royals.png",
+		"F_TeamImage": "https://www.espncricinfo.com/db/PICTURES/CMS/313500/313517.logo.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "Rajshahi Royals"
+		"F_TeamName": "Barisal team"
 	}, {
-		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/e/e8/Rangpur_Rangers.png",
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "Rangpur Riders"
+		"F_TeamName": "Chattogram Challengers"
 	}, {
-		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
+		"F_TeamImage": "https://static.wikia.nocookie.net/logopedia/images/3/33/Comilla_Victorians_Logo.png/revision/latest?cb=20180924164150",
 		"F_TeamUrl": "",
-		"F_TeamName": "Sylhet Thunder"
+		"F_TeamName": "Comilla Victorians"
 	},
 	{
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/2/2c/Chattogram_Challengers.png",
@@ -18,15 +18,15 @@
 	}, {
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/9/9f/Dhaka_Platoons.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "Dhaka Platoon"
+		"F_TeamName": "Dhaka team"
 	}, {
-		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/9/99/Cumilla_Warriors.png",
-		"F_TeamUrl": "",
-		"F_TeamName": "Cumilla Warriors"
-	},
-	{
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Khulna_Tigers.png/250px-Khulna_Tigers.png",
 		"F_TeamUrl": "",
 		"F_TeamName": "Khulna Tigers"
+	},
+	{
+		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/en/6/66/Sylhet_Thunder.png",
+		"F_TeamUrl": "",
+		"F_TeamName": "Sylhet team"
 	}
 ]
