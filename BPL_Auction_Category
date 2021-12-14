@@ -1,27 +1,27 @@
 [{
 		"F_TeamImage": "https://logoeps.com/wp-content/uploads/2013/07/a-plus-vector-logo.png",
 		"F_TeamUrl": "https://raw.githubusercontent.com/contactbackup/Live-BPL-Schedule/main/category_A_plus",
-		"F_TeamName": "A-plus"
+		"F_TeamName": "70 lakh Taka"
 	}, {
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Paris_RER_A_icon.svg/1024px-Paris_RER_A_icon.svg.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "A Category"
+		"F_TeamName": "40 lakh Taka"
 	}, {
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eo_circle_blue_white_letter-b.svg/1200px-Eo_circle_blue_white_letter-b.svg.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "B Category"
+		"F_TeamName": "25 lakh Taka"
 	},
 	{
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon_C_orange.svg/512px-Icon_C_orange.svg.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "C Category"
+		"F_TeamName": "18 lakh Taka"
 	}, {
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eo_circle_orange_letter-d.svg/480px-Eo_circle_orange_letter-d.svg.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "D Category"
+		"F_TeamName": "12 lakh Taka"
 	}, {
 		"F_TeamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eo_circle_yellow_letter-e.svg/768px-Eo_circle_yellow_letter-e.svg.png",
 		"F_TeamUrl": "",
-		"F_TeamName": "E Category"
+		"F_TeamName": "5 lakh Taka"
 	}
 ]
