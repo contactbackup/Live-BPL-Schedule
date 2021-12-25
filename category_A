@@ -1,0 +1,35 @@
+[{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg",
+		"F_TeamName": "Liton Das"
+	}, {
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg",
+		"F_TeamName": "Mohammad Saifuddin,"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148273/imrul-kayes.jpg",
+		"F_TeamName": "Imrul Kayes"
+	}, {
+		"F_TeamImage": "https://sportzcraazy.com/wp-content/uploads/2019/10/Mominul-Haque.jpg",
+		"F_TeamName": "Mominul Haque"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg",
+		"F_TeamName": "Mosaddek Hossain"
+	}, {
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg",
+		"F_TeamName": "Mohammad Mithun"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg",
+		"F_TeamName": "Abu Jayed Rahi"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c148289/mehidy-hasan.jpg",
+		"F_TeamName": "Mehidy Miraz"
+	},
+
+	{
+		"F_TeamImage": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-462981464-e1518000330502.jpg",
+		"F_TeamName": "Taijul Islam"
+	}
+]
