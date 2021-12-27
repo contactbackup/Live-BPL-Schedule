@@ -1,4 +1,73 @@
 [{
-	"F_TeamImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
-	"F_TeamName": "Mustafizur Rahman"
-}]
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c157468/ravi-bopara.jpg",
+		"F_TeamName": "Ravi Bopara"
+	},
+	{
+		"F_TeamImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/295800/295890.jpg",
+		"F_TeamName": "Angelo Perera"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c146405/kesrick-williams.jpg",
+		"F_TeamName": "Kesrick Williams"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c171078/colin-ingram.jpg",
+		"F_TeamName": "Colin Ingram"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155747/anamul-haque.jpg",
+		"F_TeamName": "Anamul Haque"
+	},
+	{
+		"F_TeamImage": "https://www.espncricinfo.com/db/PICTURES/CMS/181200/181239.jpg",
+		"F_TeamName": "Sohag Gazi"
+	}, {
+		"F_TeamImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c156212/taskin-ahmed.jpg",
+		"F_TeamName": "Taskin Ahmed"
+	},
+	{
+		"F_TeamImage": "https://staticg.sportskeeda.com/editor/2018/03/cf66e-1520594324-800.jpg",
+		"F_TeamName": "Dinesh Chandimal"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170909/mosaddek-hossain.jpg",
+		"F_TeamName": "Mosaddek Hossain"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170918/mohammad-mithun.jpg",
+		"F_TeamName": "Mohammad Mithun"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156217/al-amin-hossain.jpg",
+		"F_TeamName": "Al-Amin Hossain"
+	},
+	{
+		"F_TeamImage": "https://thedailynewnation.com/library/1592669878_4.jpg",
+		"F_TeamName": "Nazmul Islam Apu"
+	},
+	{
+		"F_TeamImage": "https://ttensports.com/wp-content/uploads/2019/11/SHIRAZ-AHMED.png",
+		"F_TeamName": "Shiraz Ahmed"
+	},
+	{
+		"F_TeamImage": "https://indianhotdeal.com/wp-content/uploads/2020/03/119.jpg",
+		"F_TeamName": "Alok Kapali"
+	},
+	{
+		"F_TeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/171000/171015.1.jpg",
+		"F_TeamName": "Muktar Ali"
+	},
+	{
+		"F_TeamImage": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c155459/jubair-hossain.jpg",
+		"F_TeamName": "Jubair Hossain"
+	},
+	{
+		"F_TeamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_gn_s_100_2x/lsci/db/PICTURES/CMS/283600/283616.1.jpg",
+		"F_TeamName": "Mizanur Rahman"
+	},
+	{
+		"F_TeamImage": "https://dnd3y8e5nonx2.cloudfront.net/humans/avatars/1221467/1432633761/display.jpeg",
+		"F_TeamName": "Nadif Chowdhury"
+	}
+
+]
